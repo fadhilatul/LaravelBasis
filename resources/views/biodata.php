@@ -17,9 +17,10 @@
 </style>
 <body>
     <div class="text-center pt-50">
-         <h2>Nama : Fadhilatul Hidayah</h2>
-         <h2>Kelas : XI RPL</h2>
-         <h2>Alamat : SambongSari</h2>
-         <h2>Sekolah : SMK MUHAMMADIYAH 1 WELERI</h2></div>
+    <h2>Nama : Fadhilatul Hidayah</h2>
+    <h2>Kelas : XI RPL</h2>
+    <h2>Alamat : SambongSari</h2>
+    <h2>Sekolah : SMK MUHAMMADIYAH 1 WELERI</h2>
+    </div>
 </body>
 </html>

@@ -10,9 +10,9 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-// Route::get('/namaku', function() {
-//     return ('Fadhilatul Hidayah');
-// });
+Route::get('/', function () {
+    return view('welcome');
+});
 
 // Route::get('/kelasku/{id}', function($id) {
 //     retubluebluern 'kelas ' .$id;
@@ -30,8 +30,10 @@
 //     return redirect('home');
 // });
 
-Route::get('/biodata', 'BiodataController@index');
-Route::get('/makanan', 'MakananController@index');
-Route::get('/gamis', 'GamisController@index');
-Route::get('/hijab', 'HijabController@index');
-Route::get('/kacamata', 'KacamataController@index');
+Route::get('/Barang', 'BarangController@index');
+
+Route::get('/Users', 'UsersController@index');
+
+Route::get('/Kategori', 'KategoriController@index');
+
+Route::get('/Satuan', 'SatuanController@index');

@@ -15,13 +15,13 @@
 <body>
 <div class="jumbotron">
   <div class="container">
-    <marquee><h1>Makanan</h1></marquee>
+    <h1>Makanan</h1>
   </div>
 </div>
-<div class="container">
-    <div class="row">
-    <div class="col">
-    <div class="card" style="width: 18rem;">
+    <div class="container">
+        <div class="row">
+        <div class="col">
+        <div class="card" style="width: 18rem;">
         <img src="https://www.indoindians.com/wp-content/uploads/2016/03/Sate-Ayam.jpg" class="card-img-top" alt="...">
         <div class="card-body">
         <h5 class="card-title">Rp.15.000</h5>
@@ -30,7 +30,7 @@
     </div>
 </div>
 <div class="col">
-    <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 18rem;">
         <img src="http://3.bp.blogspot.com/-jTCpqkSwOC4/UQWaq8MIN1I/AAAAAAAAAKk/Wo3Tw1Rts2Y/s1600/lumpia-semarang1+y.jpg" class="card-img-top" alt="...">
         <div class="card-body">
         <h5 class="card-title">Rp.10.000</h5>
@@ -39,15 +39,15 @@
     </div>
 </div>
 <div class="col">
-    <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 18rem;">
         <img src="http://2.bp.blogspot.com/-ULZCuwpnOZ0/TkFT-SrAlzI/AAAAAAAAGN8/_s2mQxGgF7U/s1600/DSC_1251.JPG" class="card-img-top" alt="...">
         <div class="card-body">
         <h5 class="card-title">Rp.15.000</h5>
         <a href="#" class="btn btn-primary">Beli</a>
         </div>
+        </div>
     </div>
-</div>
-</div>
+    </div>
 </div>
 </body>
 </html>

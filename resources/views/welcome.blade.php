@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Fadhila
+                    Lembur<br>Di Kejar Deadline
                 </div>
 
                 <div class="links">

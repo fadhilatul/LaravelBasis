@@ -9,7 +9,7 @@
 </head>
 <style>
     .jumbotron{
-        background-image: url('https://2.bp.blogspot.com/-DW1p_QEt8gI/VKPADG4-C_I/AAAAAAAAAMg/kXErcOOS9Vc/s1600/aviator.jpeg');
+        background-image: url('https://2.bp.blogspot.com/-DW1p_QEt8gI/VKPADG4-C_I/AAAAAAAAAMg/kXErcOOS9Vc/s1600/aviator.jpeg ');
         color: blue;
     }
 </style>
